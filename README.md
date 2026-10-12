@@ -30,22 +30,7 @@ Soy **Joel Moncaleano**, **programador de software**. Me apasiona crear aplicaci
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📅 Calendario
 
-```text
-         ╔══════════════════════════╗
-         ║      O C T U B R E       ║
-         ║          2 0 2 6        ║
-         ╚══════════════════════════╝
-  Lu   Ma   Mi   Ju   Vi   Sá   Do
-                       1    2    3    4
-   5    6    7    8    9   10   11
-  12   13   14   15   16   17   18
-  19   20   21   22   23   24   25
-  26   27   28   29   30   31
-```
-
----
 
 <div align="center">
 

@@ -6,12 +6,11 @@
 
 ## 👋 Sobre mí
 
-Soy **Joel Moncaleano**, **programador de software** en formación. Me apasiona crear aplicaciones, aprender nuevas tecnologías y resolver problemas con código limpio y bien estructurado.
+Soy **Joel Moncaleano**, **programador de software**. Me apasiona crear aplicaciones, aprender nuevas tecnologías y resolver problemas con código limpio y bien estructurado.
 
 - 🔭 Actualmente desarrollando proyectos con **Spring Boot** y **Laravel**
 - 🌱 Aprendiendo sobre desarrollo móvil con **Kotlin** y arquitectura de software
 - 💬 Pregúntame sobre Java, Python, PHP o Linux
-- 📫 Puedes contactarme a través de mi perfil de GitHub
 
 ## 🛠️ Stack tecnológico
 
@@ -31,28 +30,19 @@ Soy **Joel Moncaleano**, **programador de software** en formación. Me apasiona 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jader-posso&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jader-posso&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 📅 Calendario
 
 ```text
-             ╔══════════════════════════╗
-             ║      O C T U B R E       ║
-             ║          2 0 2 6        ║
-             ╚══════════════════════════╝
-   Lu   Ma   Mi   Ju   Vi   Sá   Do
-                         1    2    3    4
-    5    6    7    8    9   10   11
-   12   13   14   15   16   17   18
-   19   20   21   22   23   24   25
-   26   27   28   29   30   31
+         ╔══════════════════════════╗
+         ║      O C T U B R E       ║
+         ║          2 0 2 6        ║
+         ╚══════════════════════════╝
+  Lu   Ma   Mi   Ju   Vi   Sá   Do
+                       1    2    3    4
+   5    6    7    8    9   10   11
+  12   13   14   15   16   17   18
+  19   20   21   22   23   24   25
+  26   27   28   29   30   31
 ```
 
 ---
